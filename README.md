@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vinicius Mendes, desenvolvedor web full stack! 👋
-<br>
+
 - 🔭 Desenvolvedor em ascensão nos dias atuais trabalhando atualmente como Desenvolvedor Web Full Stack ...
 - 🌱 Me especializando em curso de Pós-Graduação MIT em Desenvolvimento Web Full Stack ...
 <br>
