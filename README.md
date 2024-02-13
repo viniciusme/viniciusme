@@ -1,6 +1,34 @@
 ### Olá! Eu sou o Vinicius Mendes, desenvolvedor web full stack! 👋
 <br>
 
+<template>
+  <div id="app">
+    <HelloWorld/>
+  </div>
+</template>
+
+<script>
+import HelloWorld from "./components/HelloWorld";
+
+export default {
+  name: "App",
+  components: {
+    HelloWorld
+  }
+};
+</script>
+
+<style>
+#app {
+  font-family: "Consolas", fixed-width;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+  color: #2c3e50;
+}
+</style>
+
+
 
 - 🔭 Desenvolvedor em ascensão nos dias atuais trabalhando atualmente como Desenvolvedor Web Full Stack Pleno ...
 - 👨‍🎓 Graduado no curso Superior de Tecnologia em Empreendedorismo ...
