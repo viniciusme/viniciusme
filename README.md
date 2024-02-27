@@ -13,7 +13,9 @@
   <img height="180em" src="https://wm-github-readme-stats.vercel.app/api/top-langs/?username=viniciusme&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=viniciusme&theme=onedark&margin-w=13)](https://github.com/viniciusme/github-profile-trophy)
+ 
 <br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="vinimendes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
